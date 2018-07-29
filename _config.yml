@@ -2,8 +2,8 @@ title: QMK Configurator
 email: seth.barberee@gmail.com
 show_downloads: true
 description: QMK for potatoes - an open source configurator for QMK Firmware (only the AVR boards right now)
-baseurl: "/qmk_configurator"
-url: "http://sethbarberee.github.io"
+baseurl: ""
+url: "https://sethbarberee.github.io"
 github_username: sethbarberee
 repository: sethbarberee/qmk_configurator
 theme: jekyll-theme-minimal
